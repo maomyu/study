@@ -204,7 +204,7 @@ age:=r.Context().Value("age").(int)
 本文欢迎转载，转载请联系作者，谢谢！
 公众号【常更新】：无崖子天下无敌
 GitHub：[https://github.com/yuwe1](https://github.com/yuwe1)
-博客地址【不定期更新】：[https://yuwe1.github.io/](https://yuwe1.github.io/)
+博客地址【更多笔记请移步本博客】：[https://yuwe1.github.io/](https://yuwe1.github.io/)
 
 -----------------------------------------------------------------------------------------------                                                                            
 ![打开微信扫一扫，关注微信公众号](http://pvl456y5x.bkt.clouddn.com/FgUj0g5T2WhzsfGzk2BLtopzd_pz)
